@@ -2,7 +2,7 @@ It's a unique `README.md` template for an Online Banking System implemented in J
 This template includes sections that provide a comprehensive overview, installation instructions, usage guidelines, features, and more.
 Online Banking System
 
-Welcome to the **Online Banking System**! 
+Welcome to the Online Banking System!! 
 This Java-based application provides a secure and user-friendly platform for managing bank accounts and transactions. 
 Designed for both customers and bank staff, it offers a range of features to facilitate online banking operations.
 
@@ -40,7 +40,7 @@ To get started with the Online Banking System, follow these steps:
 
 1. Clone the Repository
 
-   git clone https://github.com/yourusername/online-banking-system.git
+   git clone [https://github.com/ayushman012/MyInternTask/tree/main/Online-Banking-System-using-Java]
    cd online-banking-system
 
 2. Set Up Database
